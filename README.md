@@ -10,6 +10,7 @@ Mirror of policies for the Stumptown Syndicate.
 * [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stupmtown Syndicate Code of Conduct.
 
 **Additional Resources**
+
 [Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
 
 [Code of Conduct Evaluations/Comparison](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
