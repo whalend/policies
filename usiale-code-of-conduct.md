@@ -1,7 +1,5 @@
 # US-IALE Code of Conduct
 
-## 1. Purpose
-
 US-IALE meetings and online spaces are open to US-IALE members and those interested in landscape ecology. A primary goal of US-IALE is to be inclusive and encouraging of contributors with varied and diverse backgrounds as we foster and promote landscape ecology. US-IALE is committed to providing a friendly, safe, and welcoming environment for all participants, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in US-IALE meetings and/or the online community, as well as the consequences for unacceptable behavior. All participants including, but not limited to, attendees, speakers, volunteers, exhibitors, US-IALE staff, service providers, and others are expected to abide by this US-IALE Code of Conduct. This Code of Conduct also applies to all US-IALE meeting-related events including those sponsored by organizations other than US-IALE but held in conjunction with US-IALE events, in public or private facilities.
