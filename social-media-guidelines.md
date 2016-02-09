@@ -12,7 +12,8 @@ There are options for sharing presentation materials without in-session photogra
 
 Social/new media (Twitter, Facebook and others) “opt-out” policy: While the default assumption is to allow open discussion of US-IALE presentations on social/new media, please respect any request by a presenter to not disseminate the contents of their talk. The following opt-out icon may be downloaded for inclusion on slides or posters to clearly express when a presenter does not want their results posted to Twitter or any other new media sites:
 
-Download opt-out Twitter image here.
-(Please include the opt-out Twitter image on every slide to ensure your preference is known since people may come in after your presentation begins.)
+[Download opt-out Twitter image here.](https://github.com/whalend/policies/blob/master/noTwit.jpg)
+
+Please include the opt-out Twitter image on every slide to ensure your preference is known since people may come in after your presentation begins.
 
 Thank you in advance to everyone for following these basic guidelines for online posts of all kinds and helping us maintain a welcoming environment for sharing information. As a reminder, the official meeting hashtag is #USIALE2016. We look forward to seeing your thoughts and discussion online.
