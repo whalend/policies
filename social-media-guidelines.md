@@ -1,6 +1,6 @@
 # Social Media/New Media Guidelines
 
-Please Read Before You Tweet (Or blog, Or Instagram, Or Pinterest, Or Google+, Or LinkdIn……)
+Please Read Before You Tweet (Or blog, Or Instagram, Or Pinterest, Or Google+, Or LinkedIn……)
 
 The U.S. Chapter of the International Association of Landscape Ecology encourages open discussion on social/new media outlets at our Annual Meeting. In order to find a balance between the needs and expectations of members and make the meeting a safe and comfortable space for everyone, we set forth the following guidelines:
 
