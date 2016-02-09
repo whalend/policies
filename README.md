@@ -11,5 +11,7 @@ Mirror of policies for the Stumptown Syndicate.
 
 **Additional Resources**
 [Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
-[Code of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+
+[Code of Conduct Evaluations/Comparison](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+
 If your community primarily meets in person: [Conference Specific Code of Conduct](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
