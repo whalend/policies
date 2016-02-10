@@ -49,5 +49,5 @@ Finally, the US-IALE Communications Committee will make a report on the situatio
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the Communications Committee, contact the US-IALE Executive Committee at [EMAIL ADDRESS] with your appeal and the US-IALE Executive Committee will review the case.
 
-_Revision 1.0, DRAFT, proposed February 2016_
+_Revision 1.0, DRAFT, proposed February 2016_.
 _Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
