@@ -43,36 +43,37 @@ Harassment, intimidation, or discrimination of any form, including but not limit
   * US-IALE staff (or their designee) or security may take any action deemed necessary and appropriate, up to and including immediate removal from meetings without warning or refund and/or permanent expulsion from US-IALE without warning (and without refund in the case of a paid event).
   * US-IALE reserves the right to prohibit attendance at any future meeting of any persons engaging in unacceptable behavior.
 
-## 6. Reporting Guidelines
+## Reporting Guidelines
 
   * If you are subject to or witness unacceptable behavior, or have any other concerns, please immediately notify an US-IALE staff member, meeting organizer, and/or volunteer as soon as possible. [CONTACT_INFO_HERE].
   * Notification may be done by contacting an US-IALE staff member/meeting organizer/volunteer on-site (during the meeting, a staff member/meeting organizer/volunteer can be found at the registration table 8am-6pm) or e-mail your concern to [USIALE_CONTACT_PERSONS].
   * Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety at our annual meetings is advised to locate a hotel phone and ask for security, contact the hotel front desk, or call emergency services by dialing 9-1-1.
 
-[LINK_TO_REPORTING_GUIDELINES]
+[LINK TO REPORTING GUIDELINES](https://github.com/whalend/policies/blob/master/usiale-reporting-guidelines.md)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 7. Addressing Grievances
+## Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the US-IALE Executive Committee with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
 
 [NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
 
-## 8. Scope
+## Scope
 
 We expect all US-IALE members/participants/attendees/vendors/staff and other guests to abide by this Code of Conduct in all US-IALE venues--online and in-person--as well as in all one-on-one communications pertaining to US-IALE business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of US-IALE activities when such behavior has the potential to adversely affect the safety and well-being of US-IALE members.
 
-## 9. Contact info
+## Contact info
 
 [YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
 
-## 10. License and attribution
+## License and attribution
+
+_Revision 1.0. DRAFT February 2016._
 
 Portions of text derived from The Citizen Code of Conduct as distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 1.0. Posted 9 February 2016._
