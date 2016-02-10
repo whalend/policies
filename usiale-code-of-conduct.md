@@ -4,7 +4,7 @@ US-IALE meetings and online spaces are open to US-IALE members and those interes
 
 This code of conduct outlines our expectations for all those who participate in US-IALE meetings and/or the online community, as well as the consequences for unacceptable behavior. All participants including, but not limited to, attendees, speakers, volunteers, exhibitors, US-IALE staff, service providers, and others are expected to abide by this US-IALE Code of Conduct. This Code of Conduct also applies to all US-IALE meeting-related events including those sponsored by organizations other than US-IALE but held in conjunction with US-IALE events, in public or private facilities.
 
-We invite all those who participate in US-IALE to help us create safe and positive experiences for everyone.
+We invite all those who participate in US-IALE to help us create and maintain a safe and positive community for everyone.
 
 ## Expected Behavior
 
